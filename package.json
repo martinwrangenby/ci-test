@@ -1,0 +1,11 @@
+{
+  "name": "ci-test",
+  "version": "1.0.0",
+  "description": "Simple CI test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Martin",
+  "license": "ISC"
+}
